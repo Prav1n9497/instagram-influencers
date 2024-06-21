@@ -13,7 +13,7 @@ The objective of this project is to pre process and analyse the instagram influe
  - Followers
  - Average likes
  - Total Likes
-6. Describe the relationship between the following pairs of features using a suitable graph
+5. Describe the relationship between the following pairs of features using a suitable graph
  - Followers and Total Likes
  - Followers and Influence Score
  - Posts and Average likes
